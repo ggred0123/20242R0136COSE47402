@@ -76,17 +76,5 @@ CBAM 및 FEM 모듈을 통합함으로써 작은 객체와 밀집된 환경에�
 
 ---
 
-#### **추가 정보**
 
-- **모델**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)  
-- **라이센스**: MIT License  
-
----
-
-#### **문의 및 기여**
-이 프로젝트에 기여하거나 문의 사항이 있다면 [이메일 주소]로 연락해 주세요. Issue나 Pull Request도 환영합니다!
-
----
-
-Jupyter Notebook 기반으로 추가적인 사용자 가이드나 예제 코드가 필요하다면 말씀해 주세요!
 
